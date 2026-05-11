@@ -15,12 +15,11 @@ Spletna stran predstavlja področja:
 Ustvarjanje sodobne osebne blagovne znamke, ki povezuje znanje, kakovost, raziskovanje in ustvarjalnost.
 
 
-## Namen projekta
+## Sodelovanje
 
-Projekt predstavlja osnovo za:
+Sodelovanje za:
 - osebno predstavitev,
 - strokovne članke,
-- blog,
 - spletne tečaje,
 - raziskovalno delo,
 - digitalne produkte,
