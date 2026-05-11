@@ -1,2 +1,3 @@
-# ALJA-MIKEC
-Osebna spletna stran Alje Mikec – zobozdravstvo, izobraževanje, raziskovanje, podjetništvo in ustvarjanje.
+# ALJA MIKEC
+Osebna spletna stran Alje Mikec.
+Zobozdravstvo, izobraževanje, raziskovanje, podjetništvo in ustvarjanje.
